@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning: Laravel 11, Angular, C# .Net, Vue.js, and advanced database optimization
 - 👯 I’m looking to collaborate on: Web and mobile applications in fitness, nutrition, or productivity
 - 💬 Ask me about: C#, Laravel, or creating dynamic web applications
-- I separate my work from business and private, so my business Stuff won't show up here
+- 🔒 I separate my work from business and private, so my business Stuff won't show up here
 - ⚡ Fun Fact: I’m a Black Belt in Martial Arts and love combining discipline from sports with my coding projects!
 
 ## Technologies & Tools
