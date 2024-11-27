@@ -24,3 +24,4 @@
 - Tydra-Running: A comprehensive app for tracking runs and improving performance.
 - Tydra-Fitness: A tool to log workouts, track progress, and maintain a healthy lifestyle.
 - Tydra-Nutrition: A tool to log meals and foods to analyze your nutrition facts
+- Tydra-Trainer: A tool to get an overview of your clients and manage everthing on one place
