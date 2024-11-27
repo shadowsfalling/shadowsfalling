@@ -20,10 +20,6 @@
 ![HTML5](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
 ![CSS3](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=1572B6)
 
-## Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Projects
 - Tydra-Running: A comprehensive app for tracking runs and improving performance.
 - Tydra-Fitness: A tool to log workouts, track progress, and maintain a healthy lifestyle.
